@@ -1,0 +1,57 @@
+.h1{
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+.h2{
+    color: tomato;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight:400 ;
+    text-decoration: line-through;
+    text-align: center;
+}
+
+.h3{
+    color: chocolate;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    text-decoration: overline;
+    text-align: center;
+}
+
+.h4{
+    color: coral;
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 200;
+    text-decoration:line-through;
+    text-align: center;
+}
+
+
+.p{
+    color: cornflowerblue;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: 200;
+    text-decoration: overline;
+}
+
+.ul{
+    color:lightsalmon;
+}
+
+div{
+    background-image: url('https://ik.imagekit.io/fi9cqu20w/mern-training/th%20(1).jpeg?updatedAt=1718810917129');
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
